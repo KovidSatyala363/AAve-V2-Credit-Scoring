@@ -29,5 +29,6 @@ aave-credit-scoring/
 └── README.md
 
 To run : python src/scoring.py
+![image alt](https://github.com/KovidSatyala363/AAve-V2-Credit-Scoring/blob/7b4f1d9863efb883dc680f629093d20f2d696c0e/Screenshot%202025-07-17%20093152.png)
 
 
